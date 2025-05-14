@@ -65,7 +65,7 @@ endmodule
 ![output](image-1.png)
 
 **RESULTS**
-```
+
 Thus the given 4 Bit Ripple Counter are implemented using verilog and validated their functionality using functional tables are verified in Quartus II.
-```
+
 
